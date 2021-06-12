@@ -17,7 +17,7 @@ The main objective of this algorithm is to reduce the sum of distances between t
 
 
 # WaterShed Algorithm
- The main aim of this algorithm is to segment the image,when two region of interest are close to each other taht is when their edges meet each other.
+ The main aim of this algorithm is to segment the image,when two region of interest are close to each other that is when their edges meet each other.
  
  **Architecture**
  
