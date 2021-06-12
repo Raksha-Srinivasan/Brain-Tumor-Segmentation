@@ -31,4 +31,4 @@ The main objective of this algorithm is to reduce the sum of distances between t
 
 5.Apply WaterShed algorithm.
 
-6.Use morphological techniques to locate the final tumor cells.
+6.Use morphological techniques to locate the final tumor cell.
