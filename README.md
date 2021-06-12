@@ -5,10 +5,18 @@ This Project aims in extracting the accurate location of tumor cells using diffe
 # Kmeans Clustering
 The main objective of this algorithm is to reduce the sum of distances between the data point and their corresponding clusters.The algorithm takes the dataset as input, and divides it into k-number of clusters,and repeats the process until it does not find the best clusters.The value of k should be prearranged in this algorithm.
 
-**Architecture:**/
-1.Give Brain MRI-Image as Input Image./
-2.Pre-process the image./
+**Architecture:**
+
+
+1.Give Brain MRI-Image as Input Image.
+
+
+2.Pre-process the image.
+
+
 3.Apply K-Means Clustering.
+
+
 4.Extract the important feature and locate the tumor cell.
 
 
