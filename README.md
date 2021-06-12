@@ -1,6 +1,6 @@
 # Brain-Tumor-Segmentation
 
-This Project aims in extracting the accurate location of tumor cells using differnt techniques such as K-Means Clustering and WaterShed Algorithm.
+This Project aims in extracting the accurate location of tumor cells using different techniques such as K-Means Clustering and WaterShed Algorithm.
 
 # Kmeans Clustering
 The main objective of this algorithm is to reduce the sum of distances between the data point and their corresponding clusters.The algorithm takes the dataset as input, and divides it into k-number of clusters,and repeats the process until it does not find the best clusters.The value of k should be prearranged in this algorithm.
